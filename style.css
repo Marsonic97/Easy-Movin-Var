@@ -1,5 +1,5 @@
 body{
-	background:#E4FBE8 ;
+	background:rgb(250, 250, 250) ;
 	line-height: 1.8;
 	letter-spacing: 1px;
 }
@@ -183,4 +183,15 @@ img {    height:200px;
 	border:none;
 	border-right:1px solid gray;
 	padding-left:0.5rem;
+}
+
+a{
+	color:black;
+	transition: color 0.3s ease;
+
+}
+
+a:hover {
+
+	color:blue;
 }
